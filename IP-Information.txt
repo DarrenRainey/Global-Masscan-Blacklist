@@ -1,0 +1,15 @@
+===================================================
+| This file cotains information about who wanted  |
+| their IP(S) blaclisted                          |
+===================================================
+
+IP:
+191.7547           Cert.BR
+VARIOUS            State University of Campinas - CSIRT UNICAMP
+VARIOUS            Allied Digital-SOC 24x7 Information Security Surveillance Services (24x7 ISSS)
+149.161.92.100     Indiana University
+93.84.94.77        abuse-team@blocklist.de
+VARIOUS            caltech.edu
+VARIOUS            Columbia University 
+VARIOUS            Hetzner Online GmbH
+VARIOUS            CSIRT-MU
